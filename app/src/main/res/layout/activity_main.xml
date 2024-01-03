@@ -14,11 +14,13 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="#FF0000"
             android:text="아이디"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="#C4A0F0"
             android:text="비밀번호"/>
 
         <TextView
